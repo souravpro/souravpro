@@ -39,7 +39,7 @@ I'm following a strict self-improvement plan:
 ---
 
 ### 📌 Featured Projects  
-> *(Pin these repositories on your GitHub profile!)*  
+> https://souravpro.github.io/baabui.com/
 
 - 🌐 **Responsive Landing Page** — HTML + CSS + Flexbox  
 - 🎨 **Profile Card + Contact Form** — Semantic HTML practice  
@@ -60,15 +60,15 @@ I'm following a strict self-improvement plan:
 ---
 
 ### 📫 Connect with Me  
-- Facebook: **facebook.com/sourav.sarkar.1023**  
-- LinkedIn: **linkedin.com/in/sourav-sarkar**  
-- Instagram: **instagram.com/sourav__official**  
-- Email: **souravsarkar1213@gmail.com**
+- Facebook: **(https://www.facebook.com/souravprogram/)**  
+- LinkedIn: **https://www.linkedin.com/in/sourav-sarker-526534357/**  
+- Instagram: **https://www.instagram.com/souravprogram/**  
+- Email: **souravprogram@gmail.com**
 
 ---
 
 ### ❤️ Fun Fact  
-আমি কোডিং শিখছি নিজের ক্যারিয়ার, পরিবার আর আমার ছেলে আরিয়া’র ভবিষ্যৎ ভালো করার জন্য।  
+ 
 Consistency is my superpower.
 
 ---
