@@ -1,17 +1,77 @@
-### Hi there 👋, my name is Sourav Sarker
-#### Web Developer
-![Web Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/350452063_1084191492985559_4214287904494121958_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=3s5Jzv6t3pQAX_OpG-0&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfBOeLawexwtAx-wDadMAznwR6XxZolFPbddnZARXDDmqA&oe=647A3117)
+<h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
+<h3 align="center">Front-End Developer | Learner | Content Creator</h3>
 
-As a junior web developer, I'm passionate about crafting responsive websites, learning new technologies, and collaborating with teams to create exceptional user experiences.
+---
 
-Skills:  HTML / CSS / JS / PHP / WORDPRESS / RESPONSIVE DESIGN 
+### 🌱 Currently Learning  
+- Front-End Development (HTML, CSS, JavaScript Deep Dive)  
+- React.js (Next 1–2 months roadmap)  
+- Building real-world projects + personal branding content  
 
-- 🔭 I’m currently working on My Home 
-- 🌱 I’m currently learning php and Wordpress 
-- 💬 Ask me about wordpress  
-- 📫 How to reach me: +880176977490 
+---
 
+### 🚀 30 Days Frontend Bootcamp (My Journey)
+I'm following a strict self-improvement plan:  
+- Daily coding 4–6 hours  
+- Building mini-projects  
+- Writing reports/blogs  
+- Recording short videos for personal branding  
+- Tracking everything on GitHub  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/souravpro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/souravprogram//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/souravprogram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/souravprogram//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://www.twitter.com.sksarker5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/Sourav-Sarker-the-sans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11157370/sourav-sarker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@souravsarker4483)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.souravprogram@gmail.com)  
+👉 *Follow my journey here — new commits daily!*
 
+---
 
+### 🛠️ Skills  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, TailwindCSS  
+- **Other:** Git, GitHub, VS Code, Responsive Design  
+- **Learning Next:** React.js, API Handling, Web Projects at scale  
+
+---
+
+### 🔥 My Goals (2025)
+- Become a strong Front-End Developer  
+- Build 10+ quality projects  
+- Launch my own portfolio website  
+- Grow a personal brand on YouTube/FB Reels  
+- Start a Web Development Career / Freelancing  
+
+---
+
+### 📌 Featured Projects  
+> *(Pin these repositories on your GitHub profile!)*  
+
+- 🌐 **Responsive Landing Page** — HTML + CSS + Flexbox  
+- 🎨 **Profile Card + Contact Form** — Semantic HTML practice  
+- 📝 **To-Do App** — JS DOM mini-project  
+- 💼 **Portfolio Website** — Coming soon...
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=souravpro&show_icons=true&theme=dark" alt="stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souravpro&theme=dark" alt="streak" />
+</p>
+
+---
+
+### 📫 Connect with Me  
+- Facebook: **facebook.com/sourav.sarkar.1023**  
+- LinkedIn: **linkedin.com/in/sourav-sarkar**  
+- Instagram: **instagram.com/sourav__official**  
+- Email: **souravsarkar1213@gmail.com**
+
+---
+
+### ❤️ Fun Fact  
+আমি কোডিং শিখছি নিজের ক্যারিয়ার, পরিবার আর আমার ছেলে আরিয়া’র ভবিষ্যৎ ভালো করার জন্য।  
+Consistency is my superpower.
+
+---
+
+### ☕ Support My Journey  
+If you like my work, follow me and give ⭐ to my projects!  
